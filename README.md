@@ -31,4 +31,4 @@ I joined Codecool Programming School in October 2021. I wanted to change my life
 	<code><img height="50" src="https://user-images.githubusercontent.com/25181517/183423775-2276e25d-d43d-4e58-890b-edbc88e915f7.png" alt="Flask" title="Flask" /></code>
 </div>
 </br>
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=DamianTarczon&show_icons=true&theme=vision-friendly-dark)](https://github.com/DamianTarczon?tab=repositories)
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=DamianTarczon&show_icons=true&theme=vision-friendly-dark)]
