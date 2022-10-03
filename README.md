@@ -33,5 +33,6 @@ I joined Codecool Programming School in October 2021. I wanted to change my life
 </br>
 
 <div align="center">
+
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=DamianTarczon&count_private=true&hide=contribs,prs,issues&show_icons=true&&theme=vision-friendly-dark)
 </div>
