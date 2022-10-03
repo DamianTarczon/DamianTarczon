@@ -4,7 +4,7 @@ My name is Damian Tarczoń and I am Junior Fullstack Developer.
 
 I joined Codecool Programming School in October 2021. I wanted to change my life path and find something that will suit me more. After one year of programming learning I think it was bullseye. I really enjoy solving tasks and developing my skills. The challenges that I encounter here helps me growth all the time. In free time I like to be active. I love hiking and riding on my electric mountain bike. I like doing calisthenics also, so not only my mind develops but my body too.
 
-### Connect/Contact with me:
+### Contact with me:
 
 [<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">](mailto:tarczon96@gmail.com)
 [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">](https://www.linkedin.com/in/damian-tarczoń/)
@@ -32,4 +32,6 @@ I joined Codecool Programming School in October 2021. I wanted to change my life
 </div>
 </br>
 
+<div align="center">
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=DamianTarczon&count_private=true&hide=contribs,prs,issues&show_icons=true&&theme=vision-friendly-dark)
+</div>
