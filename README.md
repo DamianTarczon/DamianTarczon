@@ -33,21 +33,42 @@ I joined Codecool Programming School in October 2021. I wanted to change my life
 </br>
 
 ### My repositories:
-In my collection, I've got 6 repositories. Those are the projects that I made with my colleagues in Codecool and in my opinion are the best to show you my path of learning (from total 0 knowledge about programming to what I can do now). Here I will shortly describe what I learned from each project. If you want to know more about the project, please go to the readme file for each project.
+In my collection, I've got 6 repositories. Those are the projects that I made with my colleagues in Codecool and in my opinion are the best to show you my path of learning (from total 0 knowledge about programming to what I can do now). In our one year journey we did 4 modules. We had 3 months for each module. Here I will shortly describe about what is each project and in what module it was. If you want to know more about what I learned from it, please go to the readme file in repository.
 
-Battleship:
+Python module (This was our first module. We learned the basics of python here):
 <ul>
-	<li>variables</li>
-	<li>functions</li>
-	<li>loops and conditionals</li>
-	<li>nested lists</li>
-	<li>print formatting</li>
-	<li>user input handling</li>
-	<li>error handling</li>
-	<li>clean code</li>
+ <li>
+ 	Battleship - we build simple console game for two players. First you choose where to put your battleships on the table and than you oponnent does the same. After that the game starts and you have to sink all oponnents ships.
+ </li>
+ <li>
+	Secure-ERP - here we did an <a href="https://en.wikipedia.org/wiki/Enterprise_resource_planning">ERP</a> software. It was the first time that we learned about MVC design pattern. It's the basic app where you have basic CRUD operations + some special ones on CSV files.
+ </li>
 </ul>
 
+Web and SQL - python flask (Second module. We learned basics of JS, SQL and flask):
+<ul>
+ <li>
+ 	ProMan - we build application similar to Trello. It is the project management tool.
+ </li>
+</ul>
 
+C# - OOP (Third module. First steps in new language and in object oriented programming)
+<ul>
+ <li>
+ 	Codecool-shop - ASP.NET Core web application where you can register, log in and buy some stuff. We also have payment simulation there and confirmation email sending.
+ </li>
+</ul>
+
+Advanced - ASP.NET (Last module where we did our final biggest project "El Proyecte Grande" in 6 sprints. First steps in React.js)
+<ul>
+ <li>
+	FirendlyGames-backend - project written in ASP.NET. We created there REST API for our application.
+ </li>
+ <li>
+	FirendlyGames-frontend - Single-page application written in React. Contains all the front logic for our application.
+ </li>
+</ul>
+</br>
 
 <div align="center">
 
