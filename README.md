@@ -35,7 +35,7 @@ I joined Codecool Programming School in October 2021. I wanted to change my life
 ### My repositories:
 In my collection, I've got 6 repositories. Those are the projects that I made with my colleagues in Codecool and in my opinion are the best to show you my path of learning (from total 0 knowledge about programming to what I can do now). In our one year journey we did 4 modules. We had 3 months for each module. Here I will shortly describe about what is each project and in what module it was. If you want to know more about what I learned from it, please go to the readme file in repository.
 
-Python module (This was our first module. We learned the basics of python here):
+<strong>Python module (This was our first module. We learned the basics of python here):</strong>
 <ul>
  <li>
  	Battleship - we build simple console game for two players. First you choose where to put your battleships on the table and than you oponnent does the same. After that the game starts and you have to sink all oponnents ships.
