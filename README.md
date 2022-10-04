@@ -32,6 +32,23 @@ I joined Codecool Programming School in October 2021. I wanted to change my life
 </div>
 </br>
 
+### My repositories:
+In my collection, I've got 6 repositories. Those are the projects that I made with my colleagues in Codecool and in my opinion are the best to show you my path of learning (from total 0 knowledge about programming to what I can do now). Here I will shortly describe what I learned from each project. If you want to know more about the project, please go to the readme file for each project.
+
+Battleship:
+<ul>
+	<li>variables</li>
+	<li>functions</li>
+	<li>loops and conditionals</li>
+	<li>nested lists</li>
+	<li>print formatting</li>
+	<li>user input handling</li>
+	<li>error handling</li>
+	<li>clean code</li>
+</ul>
+
+
+
 <div align="center">
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=DamianTarczon&count_private=true&hide=contribs,prs,issues&show_icons=true&&theme=vision-friendly-dark)
