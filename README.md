@@ -38,34 +38,34 @@ In my collection, I've got 6 repositories. Those are the projects that I made wi
 <strong>Python module (This was our first module. We learned the basics of python here):</strong>
 <ul>
  <li>
- 	Battleship - we build simple console game for two players. First you choose where to put your battleships on the table and than you oponnent does the same. After that the game starts and you have to sink all oponnents ships.
+ 	<b>Battleship</b> - we build simple console game for two players. First you choose where to put your battleships on the table and than you oponnent does the same. After that the game starts and you have to sink all oponnents ships.
  </li>
  <li>
-	Secure-ERP - here we did an <a href="https://en.wikipedia.org/wiki/Enterprise_resource_planning">ERP</a> software. It was the first time that we learned about MVC design pattern. It's the basic app where you have basic CRUD operations + some special ones on CSV files.
- </li>
-</ul>
-
-Web and SQL - python flask (Second module. We learned basics of JS, SQL and flask):
-<ul>
- <li>
- 	ProMan - we build application similar to Trello. It is the project management tool.
+	<b>Secure-ERP</b> - here we did an <a href="https://en.wikipedia.org/wiki/Enterprise_resource_planning">ERP</a> software. It was the first time that we learned about MVC design pattern. It's the basic app where you have basic CRUD operations + some special ones on CSV files.
  </li>
 </ul>
 
-C# - OOP (Third module. First steps in new language and in object oriented programming)
+<strong>Web and SQL - python flask (Second module. We learned basics of JS, SQL and flask):</strong>
 <ul>
  <li>
- 	Codecool-shop - ASP.NET Core web application where you can register, log in and buy some stuff. We also have payment simulation there and confirmation email sending.
+ 	<b>ProMan</b> - we build application similar to Trello. It is the project management tool.
  </li>
 </ul>
 
-Advanced - ASP.NET (Last module where we did our final biggest project "El Proyecte Grande" in 6 sprints. First steps in React.js)
+<strong>C# - OOP (Third module. First steps in new language and in object oriented programming):</strong>
 <ul>
  <li>
-	FirendlyGames-backend - project written in ASP.NET. We created there REST API for our application.
+ 	<b>Codecool-shop</b> - ASP.NET Core web application where you can register, log in and buy some stuff. We also have payment simulation there and confirmation email sending.
+ </li>
+</ul>
+
+<strong>Advanced - ASP.NET (Last module where we did our final biggest project "El Proyecte Grande" in 6 sprints. First steps in React.js):</strong>
+<ul>
+ <li>
+	<b>FirendlyGames-backend</b> - project written in ASP.NET. We created there REST API for our application.
  </li>
  <li>
-	FirendlyGames-frontend - Single-page application written in React. Contains all the front logic for our application.
+	<b>FirendlyGames-frontend</b> - Single-page application written in React. Contains all the front logic for our application.
  </li>
 </ul>
 </br>
