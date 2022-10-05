@@ -1,6 +1,6 @@
 # Hi there 👋 
 
-My name is Damian Tarczoń and I am Junior Fullstack Developer.
+## My name is Damian Tarczoń and I am Junior Fullstack Developer.
 
 I joined Codecool Programming School in October 2021. I wanted to change my life path and find something that will suit me more. After one year of programming learning I think it was bullseye. I really enjoy solving tasks and developing my skills. The challenges that I encounter here helps me grow all the time. In free time I like to be active. I love hiking and riding on my electric mountain bike. I like doing calisthenics also, so not only my mind develops but my body too.
 
