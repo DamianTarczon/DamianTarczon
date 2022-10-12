@@ -1,8 +1,8 @@
 # Hi there 👋 
 
-## My name is Damian Tarczoń and I am Junior Fullstack Developer.
+## My name is Damian Tarczoń and I'm a Junior Fullstack Developer.
 
-I joined Codecool Programming School in October 2021. I wanted to change my life path and find something that will suit me more. After one year of programming learning I think it was bullseye. I really enjoy solving tasks and developing my skills. The challenges that I encounter here helps me grow all the time. In free time I like to be active. I love hiking and riding on my electric mountain bike. I like doing calisthenics also, so not only my mind develops but my body too.
+I joined Codecool Programming School in October 2021. I wanted to change my life path and find something that will suit me more. After one year of programming learning I think it was bullseye. I really enjoy solving tasks and developing my skills. The challenges that I encounter here helps me grow all the time. In my free time I like to be active. I love hiking and riding on my electric mountain bike. I like doing calisthenics also, so not only my mind develops but my body too.
 
 ### Contact with me:
 
@@ -38,17 +38,17 @@ In my collection, I've got 6 repositories. Those are the projects that I made wi
 <strong>Python module (This was our first module. We learned the basics of python here):</strong>
 <ul>
  <li>
- 	<b>Battleship</b> - we build simple console game for two players. First you choose where to put your battleships on the table and than you oponnent does the same. After that the game starts and you have to sink all oponnents ships.
+ 	<b>Battleship</b> - we build simple console game for two players. First you choose where to put your battleships on the table and than your opponent does the same. After that the game starts and you have to sink all opponents ships.
  </li>
  <li>
-	<b>Secure-ERP</b> - here we did an <a href="https://en.wikipedia.org/wiki/Enterprise_resource_planning">ERP</a> software. It was the first time that we learned about MVC design pattern. It's the basic app where you have basic CRUD operations + some special ones on CSV files.
+	<b>Secure-ERP</b> - here we did an <a href="https://en.wikipedia.org/wiki/Enterprise_resource_planning">ERP</a> software. It was the first time that we learned about MVC design patterns. It's the basic app where you have basic CRUD operations + some special ones on CSV files.
  </li>
 </ul>
 
 <strong>Web and SQL - python flask (Second module. We learned basics of JS, SQL and flask):</strong>
 <ul>
  <li>
- 	<b>ProMan</b> - we build application similar to Trello. It is the project management tool.
+ 	<b>ProMan</b> - we build application similar to Trello. It is a project management tool.
  </li>
 </ul>
 
@@ -62,10 +62,10 @@ In my collection, I've got 6 repositories. Those are the projects that I made wi
 <strong>Advanced - ASP.NET (Last module where we did our final biggest project "El Proyecte Grande" in 6 sprints. First steps in React.js):</strong>
 <ul>
  <li>
-	<b>FirendlyGames-backend</b> - project written in ASP.NET. We created there REST API for our application.
+	<b>FriendlyGames-backend</b> - project written in ASP.NET. We created there REST API for our application.
  </li>
  <li>
-	<b>FirendlyGames-frontend</b> - Single-page application written in React. Contains all the front logic for our application.
+	<b>FriendlyGames-frontend</b> - Single-page application written in React. Contains all the front logic for our application.
  </li>
 </ul>
 </br>
