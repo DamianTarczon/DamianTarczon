@@ -2,7 +2,7 @@
 
 ## My name is Damian Tarczoń and I'm a Junior Fullstack Developer.
 
-I joined Codecool Programming School in October 2021. I wanted to change my life path and find something that will suit me more. After one year of programming learning I think it was bullseye. I really enjoy solving tasks and developing my skills. The challenges that I encounter here helps me grow all the time. In my free time I like to be active. I love hiking and riding on my electric mountain bike. I like doing calisthenics also, so not only my mind develops but my body too.
+I joined Codecool Programming School in October 2021. I wanted to change my life path and find something that will suit me more. After one year of programming learning I think it was bullseye. I really enjoy solving tasks and developing my skills. The challenges that I encounter here help me grow all the time. In my free time I like to be active. I love hiking and riding on my electric mountain bike. I like doing calisthenics also, so not only my mind develops but my body too.
 
 ### Contact with me:
 
@@ -33,7 +33,7 @@ I joined Codecool Programming School in October 2021. I wanted to change my life
 </br>
 
 ### My repositories:
-In my collection, I've got 6 repositories. Those are the projects that I made with my colleagues in Codecool and in my opinion are the best to show you my path of learning (from total 0 knowledge about programming to what I can do now). In our one year journey we did 4 modules. We had 3 months for each module. Here I will shortly describe about what is each project and in what module it was. If you want to know more about what I learned from it, please go to the readme file in repository.
+In my collection, I've got 6 repositories. Those are the projects that I made with my colleagues in Codecool and in my opinion are the best to show you my path of learning (from total 0 knowledge about programming to what I can do now). In our one year journey we did 4 modules. We had 3 months for each module. Here I will shortly describe what is in each project and in what module it was. If you want to know more about what I learned from it, please go to the readme file in the repository.
 
 <strong>Python module (This was our first module. We learned the basics of python here):</strong>
 <ul>
